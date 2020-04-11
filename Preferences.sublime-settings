@@ -1,0 +1,45 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.lock"
+	],
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "FiraCode-Retina",
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"StandardFormat",
+		"SublimeLinter-contrib-standard",
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.lock"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_full_screen": true,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
