@@ -1,8 +1,15 @@
 // SublimeLinter Settings - User
+// {
+//   "paths": {
+//     "osx": [
+//       "~/.asdf/shims/"
+//     ]
+//   }
+// }
 {
-  "paths": {
-    "osx": [
-      "~/.asdf/shims/"
-    ]
+  "linters": {
+    "eslint": {
+      "selector": "source.ts, source.js - meta.attribute-with-value"
+    }
   }
 }
